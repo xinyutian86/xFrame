@@ -1,5 +1,5 @@
 # config
 jdbcUrl = jdbc:mysql://localhost/it_home?characterEncoding=utf8&useSSL=false&zeroDateTimeBehavior=convertToNull
 user = root
-password = woaixinke
+password = root
 devMode = true
